@@ -1,0 +1,9 @@
+import CanonicalLaneMathlibCore
+
+namespace HautevilleHouse
+namespace PlanetaryGeologyCanonicalLaneLean
+
+open HautevilleHouse.CanonicalLaneMathlibCore
+
+end PlanetaryGeologyCanonicalLaneLean
+end HautevilleHouse
